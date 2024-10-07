@@ -13,7 +13,7 @@
                     <router-link class="nav-link" to="/contact">Contact</router-link>
                 </li>
                 <li class="nav-item">
-                    <router-link class="nav-link" to="/projects">Projects</router-link>
+                    <router-link class="nav-link" to="/projects" target="_blank">Projects</router-link>
                     <!-- <a href="vue-todo-list-liard.vercel.app" target="_blank" rel="noopener noreferrer"></a> -->
                     <!-- <a href="http://localhost:5174/" target="_blank" rel="noopener noreferrer" class="nav-link">Projects</a> -->
                 </li>

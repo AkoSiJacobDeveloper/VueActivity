@@ -20,7 +20,7 @@
                         <td>Vue.js</td>
                         <td>Finish</td>
                         <td><a href="http://localhost:5174/" class="text-white">
-                            <button class="w-100 py-2 px-4 rounded-1 fw-bold">Visit</button>
+                            <button class="w-100 py-2 px-4 rounded-1 fw-bold border-0">Visit</button>
                         </a></td>
                     </tr>
                 </tbody>
@@ -31,7 +31,7 @@
 
 <style lang="scss" scoped>
 .main-container {
-    font-size: 1.5em;
+    font-size: 1em;
     div {
         table {
             width: 100%;

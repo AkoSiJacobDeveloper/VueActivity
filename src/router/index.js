@@ -8,12 +8,12 @@ const routes = [
   {
     path: '/',
     name: 'Home',
-    component: Home, // Home component will be rendered when navigating to '/'
+    component: Home,
   },
   {
     path: '/about',
     name: 'About',
-    component: About, // About component will be rendered when navigating to '/about'
+    component: About, 
   },
   {
     path: '/contact',

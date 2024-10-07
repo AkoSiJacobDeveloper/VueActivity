@@ -8,8 +8,8 @@
             </div>
             <div class="svg">
                 <iframe src="https://lottie.host/embed/bfda8777-e4e2-4767-b88e-c3f7e0e691b1/toEebTKqtu.json"
-                    width="600" 
-                    height="600" 
+                    width="400" 
+                    height="400" 
                     frameborder="0" 
                     allowfullscreen     
                 ></iframe>
@@ -26,7 +26,7 @@
     div {
         .text {
             h2 {
-                font-size: 7em;
+                font-size: 4em;
                 font-weight: bold;
             }
         }
